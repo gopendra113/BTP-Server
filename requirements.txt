@@ -1,0 +1,6 @@
+Flask
+faiss-cpu
+numpy
+torch
+sentence-transformers
+bert-extractive-summarizer
